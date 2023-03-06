@@ -1,0 +1,1 @@
+web: gunicorn sunat-test-1:app --log-file -

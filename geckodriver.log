@@ -1,0 +1,314 @@
+1633372975656	geckodriver	INFO	Listening on 127.0.0.1:59642
+1633372978660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Valeria\\AppData\\Local\\Temp\\rust_mozprofileOvXImy"
+1633373037191	geckodriver	INFO	Listening on 127.0.0.1:59942
+1633373040198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Valeria\\AppData\\Local\\Temp\\rust_mozprofileUhtarA"
+1633373040643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Valeria\\AppData\\Local\\Temp\\rust_mozprofileUhtarA\\search.json.mozlz4", (void 0)))
+1633373042608	Marionette	INFO	Listening on port 59951
+1633373042848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://e-menu.sunat.gob.pe/cl-ti-itmenu/MenuInternet.htm?pestana=*&agrupacion=*, line 1459: unreachable code after return statement
+JavaScript warning: https://e-menu.sunat.gob.pe/cl-ti-itmenu/MenuInternet.htm?pestana=*&agrupacion=*, line 1459: unreachable code after return statement
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 528: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 516: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 66: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 66: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 87: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 260: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 230: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 348: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 135: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 303: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 240: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 162: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 93: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 41: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 152: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 171: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 36: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 87: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 81: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 75: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 43: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 52: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 34: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 158: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 59: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 258: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 179: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 173: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 213: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 127: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 67: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 40: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 101: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 79: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 42: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 255: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 32: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 150: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 28: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 47: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 66: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 64: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 234: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 216: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 154: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 104: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 603: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 209: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 162: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 166: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 18: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 14: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 67: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 16: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 178: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 47: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 220: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 496: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 130: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 230: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 87: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 234: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 216: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 303: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 240: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 162: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 93: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 41: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 152: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 171: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 36: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 87: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 81: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 158: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 59: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 75: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: /a/js/dojo1.3.1/dojo/../dijit/_base/focus.js, line 149: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: /a/js/dojo1.3.1/dojo/../dijit/_base/focus.js, line 149: NS_ERROR_NOT_INITIALIZED: 
+1633373053933	Marionette	INFO	Stopped listening on port 59951
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633373158881	geckodriver	INFO	Listening on 127.0.0.1:50984
+1633373161899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Valeria\\AppData\\Local\\Temp\\rust_mozprofilewkwFcq"
+1633373162235	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Valeria\\AppData\\Local\\Temp\\rust_mozprofilewkwFcq\\search.json.mozlz4", (void 0)))
+1633373164154	Marionette	INFO	Listening on port 59924
+1633373164527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://e-menu.sunat.gob.pe/cl-ti-itmenu/MenuInternet.htm?pestana=*&agrupacion=*, line 1459: unreachable code after return statement
+JavaScript warning: https://e-menu.sunat.gob.pe/cl-ti-itmenu/MenuInternet.htm?pestana=*&agrupacion=*, line 1459: unreachable code after return statement
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 528: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 516: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 66: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 66: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 87: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 260: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 230: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 348: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 135: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 303: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 240: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 162: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 93: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 41: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 152: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 171: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 36: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 87: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 81: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 75: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 43: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 52: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 34: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 158: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 59: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 258: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 179: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 173: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 213: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 127: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 67: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 40: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 101: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 79: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 42: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 255: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 32: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 150: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 28: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 47: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 66: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 64: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 234: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 216: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 154: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 104: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 603: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 209: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 162: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 166: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 18: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 14: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 67: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 16: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 178: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 47: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 220: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 496: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 130: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 230: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 87: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 234: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 216: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 303: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 240: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 162: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 93: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 41: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 152: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 171: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 36: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 87: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 81: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 158: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 59: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 75: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: /a/js/dojo1.3.1/dojo/../dijit/_base/focus.js, line 149: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: /a/js/dojo1.3.1/dojo/../dijit/_base/focus.js, line 149: NS_ERROR_NOT_INITIALIZED: 
+1633373175420	Marionette	INFO	Stopped listening on port 59924
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633722729798	geckodriver	INFO	Listening on 127.0.0.1:62121
+1633722732835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Valeria\\AppData\\Local\\Temp\\rust_mozprofilePm0fG2"
+1633722733598	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Valeria\\AppData\\Local\\Temp\\rust_mozprofilePm0fG2\\search.json.mozlz4", (void 0)))
+1633722736912	Marionette	INFO	Listening on port 53686
+1633722737058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://e-menu.sunat.gob.pe/cl-ti-itmenu/MenuInternet.htm?pestana=*&agrupacion=*, line 1459: unreachable code after return statement
+JavaScript warning: https://e-menu.sunat.gob.pe/cl-ti-itmenu/MenuInternet.htm?pestana=*&agrupacion=*, line 1459: unreachable code after return statement
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 528: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 516: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 66: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 66: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 87: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 260: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 230: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 348: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 135: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 303: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 240: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 162: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 93: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 41: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 152: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 171: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 36: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 87: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 81: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 75: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 43: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 52: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 34: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 158: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 59: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 258: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 179: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 173: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 213: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 127: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 67: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 40: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 101: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 79: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 42: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 255: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 32: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 150: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 28: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 47: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 66: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 64: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 234: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 216: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 154: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 104: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 603: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 209: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 162: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 166: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 18: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 14: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 67: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 16: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 178: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 47: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 220: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 496: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 130: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 230: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 87: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 234: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 216: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 303: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 240: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 162: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 93: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 41: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 152: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 171: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 36: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 87: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 81: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 158: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 59: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ww1.sunat.gob.pe/a/js/dojo1.3.1/dojo/dojo.js, line 75: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: /a/js/dojo1.3.1/dojo/../dijit/_base/focus.js, line 149: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: /a/js/dojo1.3.1/dojo/../dijit/_base/focus.js, line 149: NS_ERROR_NOT_INITIALIZED: 
+1633722749018	Marionette	INFO	Stopped listening on port 53686
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
